@@ -8,3 +8,4 @@ minnano-av.com##.bn250
 # https://javdb.com/
 ##.sub-header
 ##.site-announce
+##.app-desktop-banner
