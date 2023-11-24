@@ -2,4 +2,4 @@
 ##.bcpic2
 
 # http://www.minnano-av.com/
-||minnano-av.com##iframe
+minnano-av.com##iframe
