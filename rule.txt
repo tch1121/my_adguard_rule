@@ -4,3 +4,7 @@
 # http://www.minnano-av.com/
 minnano-av.com##iframe
 minnano-av.com##.bn250
+
+# https://javdb.com/
+##.sub-header
+##.site-announce
