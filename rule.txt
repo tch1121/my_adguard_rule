@@ -13,3 +13,6 @@ minnano-av.com##.bn250
 # 九妖
 ||img.jiuyaomanhua.com/attachment/ad/XR_random_300_250_v32.gif
 ##.m-hm-ad1
+
+# 例外
+@@||b-hls-20.doppiocdn.org^$domain=creative.myavlive.com
