@@ -16,3 +16,6 @@ minnano-av.com##.bn250
 
 # 例外
 @@||b-hls-20.doppiocdn.org^$domain=creative.myavlive.com
+
+# missav
+||myavlive.com^$domain=missav.com
